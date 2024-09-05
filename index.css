@@ -4,8 +4,8 @@ body {
     height: 100%;
     background-image: url("bgbg3.jpg");
     background-repeat: no-repeat;
-    background-size: cover; /* Ensure the image covers the entire body */
-    background-position: center; /* Optional: Center the image */
+    background-size: cover; 
+    background-position: center; 
 }
 #btn-submit{
     background-color: #000;
