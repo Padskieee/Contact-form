@@ -27,7 +27,7 @@
     <div class="row d-flex justify-content-center">
         <div class="col-xl-7 col-lg-8 col-md-9 col-11 text-center">
             <h3>Contact Form</h3>
-            <p class="black-text">Mohon berikan saran anda<br> agar saya mengetahui kekurangan saya.</p>
+            <p class="black-text">Mohon berikan saran anda<br> untuk mengevaluasi diri saya.</p>
             <!-- <div class="card"> -->
                 <h5 class="text-center mb-4">Mohon untuk mengisi form berikut</h5>
                 <form class="form-card" action="../process_contact/process.php" method="post">
