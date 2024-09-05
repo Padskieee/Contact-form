@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $dbname = 'formipad';
-$username = 'root'; // Sesuaikan dengan user database Anda
-$password = ''; // Sesuaikan dengan password database Anda
+$username = 'root'; 
+$password = ''; 
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
