@@ -1,0 +1,13 @@
+body {
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-image: url("bgbg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; /* Ensure the image covers the entire body */
+    background-position: center; /* Optional: Center the image */
+}
+#btn-submit{
+    background-color: #000;
+    color: #fff;
+}
